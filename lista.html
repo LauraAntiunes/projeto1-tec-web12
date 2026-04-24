@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Meus Filmes</title>
+  <link rel="stylesheet" href="css/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<input type="checkbox" id="menuToggle">
+<label for="menuToggle" class="menu-icon">☰</label>
+
+<aside class="menu">
+  <nav>
+    <a href="index.html">Início</a>
+    <a href="cadastro.html">Cadastro</a>
+    <a href="lista.html" class="ativo">Listagem</a>
+  </nav>
+</aside>
+
+<label for="menuToggle" class="overlay"></label>
+
+<header class="desktop-menu">
+  <nav>
+    <a href="index.html">Início</a>
+    <a href="cadastro.html">Cadastro</a>
+    <a href="lista.html" class="ativo">Listagem</a>
+  </nav>
+</header>
+
+<main class="container">
+  <h2>Filmes cadastrados</h2>
+  <section id="listaFilmes"></section>
+</main>
+
+<script src="js/lista.js"></script>
+</body>
+</html>
