@@ -1,6 +1,6 @@
 # projetoP1
 
-Link para ver o site rodando -->  https://github.com/LauraAntiunes/filmbox
+Link para ver o site rodando --> [ https://github.com/LauraAntiunes/filmbox](https://lauraantiunes.github.io/filmbox/)
 
 
 🎯 Objetivo Geral
