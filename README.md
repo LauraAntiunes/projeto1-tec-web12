@@ -1,5 +1,8 @@
 # projetoP1
 
+Link para ver o site rodando -->  https://github.com/LauraAntiunes/filmbox
+
+
 🎯 Objetivo Geral
 
 Desenvolver uma aplicação web utilizando HTML, CSS e JavaScript, implementando navegação entre páginas, formulário com validação, listagem dinâmica de dados e gerenciamento de estado em memória, simulando um cenário real de desenvolvimento frontend.
